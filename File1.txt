@@ -4,4 +4,10 @@ Welcome to Git......
 
 change for feature --> login
 
+change for feature --> login
+
+change to from remote server by my teammate
+
 change to fix bug1
+
+git merge bug2
