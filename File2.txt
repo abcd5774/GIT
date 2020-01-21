@@ -2,6 +2,8 @@ Change request 1-
 
 for updating adding items to cart
 
-change -->  the file to check for Push 
-chnage --> edit meassage in File2 
-change masde by the mate on remote
+change1 -  the file to check for Push 
+chnage2 - edit meassage in File2 
+change3 masde by the mate on remote
+change4 --> local master
+File2 updated by local master for
